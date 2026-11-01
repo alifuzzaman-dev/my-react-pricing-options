@@ -6,6 +6,7 @@ const Link = ({route}) => {
             <a href={route.path}>{route.name}</a>
         </li>
     );
+    
 };
 
 export default Link;
