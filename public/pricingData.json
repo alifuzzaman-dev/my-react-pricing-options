@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "price": "$29/month ",
+    "period": "month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "popular": false,
+    "features": [
+      { "id": 1, "text": "Full gym floor access", "included": true },
+      { "id": 2, "text": "Locker room & showers", "included": true },
+      { "id": 3, "text": "1 free intro session", "included": true },
+      { "id": 4, "text": "Free Wi-Fi", "included": true },
+      { "id": 5, "text": "Water station access", "included": true },
+      { "id": 6, "text": "Mobile app access", "included": true },
+      { "id": 7, "text": "Group classes", "included": false },
+      { "id": 8, "text": "Personal trainer", "included": false },
+      { "id": 9, "text": "Sauna & steam room", "included": false },
+      { "id": 10, "text": "Nutrition plan", "included": false },
+      { "id": 11, "text": "Guest passes", "included": false },
+      { "id": 12, "text": "24/7 access", "included": false }
+    ],
+    "cta": "Get Started"
+  },
+  {
+    "id": 2,
+    "price": "$40/month",
+    "period": "month",
+    "description": "Our most popular option for regular gym-goers.",
+    "popular": true,
+    "features": [
+      { "id": 1, "text": "Full gym floor access", "included": true },
+      { "id": 2, "text": "Locker room & showers", "included": true },
+      { "id": 3, "text": "1 free intro session", "included": true },
+      { "id": 4, "text": "Free Wi-Fi", "included": true },
+      { "id": 5, "text": "Water station access", "included": true },
+      { "id": 6, "text": "Mobile app access", "included": true },
+      { "id": 7, "text": "Unlimited group classes", "included": true },
+      { "id": 8, "text": "2 PT sessions / month", "included": true },
+      { "id": 9, "text": "Sauna & steam room", "included": true },
+      { "id": 10, "text": "Nutrition plan", "included": false },
+      { "id": 11, "text": "2 guest passes / month", "included": true },
+      { "id": 12, "text": "24/7 access", "included": false }
+    ],
+    "cta": "Choose Plan"
+  },
+  {
+    "id": 3,
+    "price": "$80/month",
+    "period": "month",
+    "description": "All-access membership with personal coaching.",
+    "popular": false,
+    "features": [
+      { "id": 1, "text": "Full gym floor access", "included": true },
+      { "id": 2, "text": "Locker room & showers", "included": true },
+      { "id": 3, "text": "1 free intro session", "included": true },
+      { "id": 4, "text": "Free Wi-Fi", "included": true },
+      { "id": 5, "text": "Water station access", "included": true },
+      { "id": 6, "text": "Mobile app access", "included": true },
+      { "id": 7, "text": "Unlimited group classes", "included": true },
+      { "id": 8, "text": "8 PT sessions / month", "included": true },
+      { "id": 9, "text": "Sauna & steam room", "included": true },
+      { "id": 10, "text": "Custom nutrition plan", "included": true },
+      { "id": 11, "text": "4 guest passes / month", "included": true },
+      { "id": 12, "text": "24/7 access", "included": true }
+    ],
+    "cta": "Go All-In"
+  }
+]
